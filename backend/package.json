@@ -1,0 +1,27 @@
+{
+  "name": "alquileres",
+  "version": "1.0.0",
+  "description": "Projecto backend para empresa de alquileres",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseK03/Alquileres.git"
+  },
+  "author": "Jose Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseK03/Alquileres/issues"
+  },
+  "homepage": "https://github.com/JoseK03/Alquileres#readme",
+  "dependencies": {
+    "mongoose": "^7.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
